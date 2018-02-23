@@ -7,7 +7,6 @@ dependencies:
   - numpy
   - libgdal
   - spatialindex
-  - qgis
   - pip:
     - sphinx-gallery
     - pandas
